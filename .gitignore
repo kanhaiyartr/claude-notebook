@@ -1,0 +1,6 @@
+.env
+.DS_Store
+shiksha-sahayak/
+generated/
+.venv/
+__pycache__/
